@@ -10,7 +10,7 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **3.25 o
 -🎓 **Akademik Derece:** Bilgisayar Mühendisliği Bölüm Birinciliği.
 - 🥈 **IBM CyberStart 2.0:** 291 katılımcı arasından Türkiye 2.liği (Kodluyoruz).
 - 📜 **TÜBİTAK BİLGEM YTE:** Mock-up Figma & Spring Boot Bootcampleri.
-- 📜 **Turkcell Geleceği Yazanlar:** Python Programlama Sertifikası].
+- 📜 **Turkcell Geleceği Yazanlar:** Python Programlama Sertifikası.
 
 ---
 
