@@ -79,10 +79,27 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 
 ---
 
-### 📫 Benimle İletişime Geç
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/sevval-mikci)
-- 📧 [sevvalmikci@gmail.com](mailto:sevvalmikci@gmail.com)
-- 📍 İstanbul 
+<div align="center">
+  <h3>📫 Benimle İletişime Geç</h3>
+  
+  <p align="center">
+    <!-- LinkedIn -->
+    <a href="BURAYA_LINKEDIN_LINKINI_YAPISTIR" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <!-- Gmail -->
+    <a href="mailto:sevvalmikci@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
+  <br>
+
+  <!-- İlham Verici Söz -->
+  <p>✨ <i>"Building useful things, learning every day and enjoying the process."</i></p>
+  
+  <!-- Profil Görüntülenme Sayacı (İsteğe bağlı) -->
+  <img src="https://komarev.com/ghpvc/?username=sevval-345&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 ---
 
