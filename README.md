@@ -112,14 +112,13 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 ---
 
 
-
 ### 🌐 Connect With Me
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/sevval-mikci" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
   </a>
   <a href="mailto:sevvalmikci@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
   </a>
-</p>
+</div>
