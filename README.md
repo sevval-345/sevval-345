@@ -76,39 +76,38 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 
 <div align="center">
   <h3>🚀 Featured Projects & Experience</h3>
+
+  <table align="center">
+    <tr>
+      <td width="400" valign="top">
+        <h4>🛒 E-Ticaret Platformu (Turkcell)</h4>
+        <p><i>Uçtan uca e-ticaret backend mimarisi</i></p>
+        <b>Stack:</b> Java, Spring Boot, PostgreSQL <br>
+        <b>Impact:</b> Kullanıcı, ürün ve sipariş yönetimi modülleri.
+      </td>
+      <td width="400" valign="top">
+        <h4>🏦 Üye İşleri Sistemi (Türkiye Finans)</h4>
+        <p><i>Kurumsal seviyede iş mantığı geliştirme</i></p>
+        <b>Stack:</b> ASP.NET MVC, SQL <br>
+        <b>Impact:</b> API entegrasyonu ve modüler sistem tasarımı.
+      </td>
+    </tr>
+    <tr>
+      <td width="400" valign="top">
+        <h4>🚗 Otonom Araç Simülasyonu</h4>
+        <p><i>Gerçek zamanlı nesne tespiti</i></p>
+        <b>Stack:</b> Python, YOLOv8, OpenCV <br>
+        <b>Impact:</b> Görüntü işleme tabanlı karar mekanizması.
+      </td>
+      <td width="400" valign="top">
+        <h4>🏆 Datathon 2026 (Atathon)</h4>
+        <p><i>Veri odaklı kariyer tahminleme</i></p>
+        <b>Stack:</b> Scikit-learn, Pandas, Python <br>
+        <b>Impact:</b> Karmaşık veri setleri ile başarı skoru modellemesi.
+      </td>
+    </tr>
+  </table>
 </div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 E-Ticaret Platformu (Turkcell)</h4>
-      <p><i>Uçtan uca e-ticaret backend mimarisi</i></p>
-      <b>Stack:</b> Java, Spring Boot, PostgreSQL <br>
-      <b>Impact:</b> Kullanıcı, ürün ve sipariş yönetimi modülleri.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏦 Üye İşleri Sistemi (Türkiye Finans)</h4>
-      <p><i>Kurumsal seviyede iş mantığı geliştirme</i></p>
-      <b>Stack:</b> ASP.NET MVC, SQL <br>
-      <b>Impact:</b> API entegrasyonu ve modüler sistem tasarımı.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚗 Otonom Araç Simülasyonu</h4>
-      <p><i>Gerçek zamanlı nesne tespiti</i></p>
-      <b>Stack:</b> Python, YOLOv8, OpenCV <br>
-      <b>Impact:</b> Görüntü işleme tabanlı karar mekanizması.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏆 Datathon 2026 (Atathon)</h4>
-      <p><i>Veri odaklı kariyer tahminleme</i></p>
-      <b>Stack:</b> Scikit-learn, Pandas, Python <br>
-      <b>Impact:</b> Karmaşık veri setleri ile başarı skoru modellemesi.
-    </td>
-  </tr>
-</table>
-
 ---
 
 
