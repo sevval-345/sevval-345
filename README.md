@@ -1,8 +1,18 @@
 <div align="center">
   <img src="At Hype Media, we believe success is built on smart strategy and meaningful collaboration. (1).png" width="100%">
+  
+  <br><br>
+  
+  ### Software Engineer building AI-powered products
+  
+  <p align="center">
+    <code>Turning ideas into real projects</code>
+  </p>
 </div>
 
 <br>
+
+<!-- Buradan aşağıya kendi metinlerini ekleyebilirsin -->
 
 # Merhaba, Ben Şevval Mıkçı! 👋
 
