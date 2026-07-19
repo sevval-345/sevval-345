@@ -1,6 +1,11 @@
+<div align="center">
+  <img src="At Hype Media, we believe success is built on smart strategy and meaningful collaboration. (1).png" width="100%">
+</div>
+
+<br>
+
 # Merhaba, Ben Şevval Mıkçı! 👋
-![](https://i.ibb.co/vj9b8K7/sevval-github-profile-banner.png) 
-*(Not: Bu örnek bir görseldir, kendi profilin için oluşturduğumuz gerçek görseli kullanmak için depondaki ilgili resim dosyasını bağlaman gerekir)*.
+
 
 ### Bilgisayar Mühendisi | Backend Developer & AI Enthusiast
 
