@@ -47,7 +47,8 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 
 ---
 
-### 🛠️ Teknik Yetkinlikler
+
+
 <div align="center">
   <h3>Core Technologies</h3>
   <p>
@@ -56,19 +57,40 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 </div>
 ---
 
-### 📂 Kurumsal Deneyimler & Projeler
+<div align="center">
+  <h3>🚀 Featured Projects & Experience</h3>
+</div>
 
-#### 🛒 E-Ticaret Platformu (Turkcell)
-- **Teknolojiler:** Java, Spring Boot, PostgreSQL
-- **Detay:** Kullanıcı giriş sistemi, ürün ve sipariş yönetimi modüllerini içeren uçtan uca backend mimarisi.
-
-#### 🏦 Üye İşleri Sistemi (Türkiye Finans)
-- **Teknolojiler:** ASP.NET MVC, SQL
-- **Detay:** Yazılım mimarilerinin gerçek projeye uygulanması, iş mantığı (business logic) ve API işlemleri geliştirme.
-
-#### 🚗 Otonom Araç Simülasyonu
-- **Teknolojiler:** Python, YOLOv8, OpenCV
-- **Detay:** Gerçek zamanlı nesne tespiti ve bilgisayarlı görü algoritmaları ile desteklenen karar mekanizması.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 E-Ticaret Platformu (Turkcell)</h4>
+      <p><i>Uçtan uca e-ticaret backend mimarisi</i></p>
+      <b>Stack:</b> Java, Spring Boot, PostgreSQL <br>
+      <b>Impact:</b> Kullanıcı, ürün ve sipariş yönetimi modülleri.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏦 Üye İşleri Sistemi (Türkiye Finans)</h4>
+      <p><i>Kurumsal seviyede iş mantığı geliştirme</i></p>
+      <b>Stack:</b> ASP.NET MVC, SQL <br>
+      <b>Impact:</b> API entegrasyonu ve modüler sistem tasarımı.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 Otonom Araç Simülasyonu</h4>
+      <p><i>Gerçek zamanlı nesne tespiti</i></p>
+      <b>Stack:</b> Python, YOLOv8, OpenCV <br>
+      <b>Impact:</b> Görüntü işleme tabanlı karar mekanizması.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Datathon 2026 (Atathon)</h4>
+      <p><i>Veri odaklı kariyer tahminleme</i></p>
+      <b>Stack:</b> Scikit-learn, Pandas, Python <br>
+      <b>Impact:</b> Karmaşık veri setleri ile başarı skoru modellemesi.
+    </td>
+  </tr>
+</table>
 
 ---
 
