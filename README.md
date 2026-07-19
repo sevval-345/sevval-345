@@ -10,8 +10,7 @@
 
 ### Bilgisayar Mühendisi | Backend Developer & AI Enthusiast
 
-Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölüm Birincisi** olarak mezun oldum. Kurumsal stajlarımda (Turkcell, Türkiye Finans, LC Waikiki) edindiğim deneyimlerle, büyük ölçekli backend sistemleri ve veri tabanı yönetimi üzerine uzmanlaşıyorum.
-
+Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği'nden bölüm birincisi olarak mezun oldum. Turkcell, Türkiye Finans ve LC Waikiki'deki kurumsal deneyimlerimi, büyük ölçekli backend sistemleri ve veritabanı yönetimi üzerine inşa ettim. Şu anda ise veri odaklı yaklaşımlar, yapay zeka ve LLM entegrasyonları geliştirerek akıllı sistemler üzerine uzmanlaşıyorum.
 
 
 ---
