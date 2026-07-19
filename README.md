@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Software+Engineer;AI+%26+Data+Specialist;Backend+Architect;Turning+ideas+into+real+projects" alt="Typing SVG" />
 </div>
-# Merhaba, Ben Şevval Mıkçı! 👋
+
 
 
 ### Bilgisayar Mühendisi | Backend Developer & AI Enthusiast
@@ -14,7 +14,34 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **3.2
 5 ortalama ile Bölüm Birincisi** olarak mezun oldum. Kurumsal stajlarımda (Turkcell, Türkiye Finans, LC Waikiki) edindiğim deneyimlerle, büyük ölçekli backend sistemleri ve veri tabanı yönetimi üzerine uzmanlaşıyorum.
 
 ---
+<div align="center">
+  <h3>🧠 Hakkımda</h3>
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+      <th width="50%">Neler Geliştiriyorum?</th>
+      <th width="50%">Etkim & Yetkinliklerim</th>
+    </tr>
+    <tr>
+      <td>
+        🔒 <b>Gizlilik odaklı</b> Yapay Zeka mimarileri <br>
+        🌐 <b>Veri odaklı</b> Makine Öğrenmesi sistemleri <br>
+        📱 <b>Ölçeklenebilir</b> Backend mimarileri <br>
+        🛡 <b>Güvenli</b> finansal yazılım modülleri <br>
+        ⚡ <b>Üretim seviyesinde</b> (Production-grade) çözümler
+      </td>
+      <td>
+        📦 <b>Bölüm Birincisi</b> olarak mezuniyet <br>
+        ⭐ <b>Kurumsal projelerde</b> aktif yazılım geliştirme <br>
+        🚀 <b>Binlerce kullanıcıya</b> hizmet veren sistemler <br>
+        🔬 <b>Araştırma destekli</b> yapay zeka uygulamaları <br>
+        💡 <b>Veri odaklı</b> sistem mimarı
+      </td>
+    </tr>
+  </table>
+</div>
 ### 🏆 Başarılar & Sertifikalar
 -🎓 **Akademik Derece:** Bilgisayar Mühendisliği Bölüm Birinciliği.
 - 🥈 **IBM CyberStart 2.0:** 291 katılımcı arasından Türkiye 2.liği (Kodluyoruz).
