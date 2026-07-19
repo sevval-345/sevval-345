@@ -39,11 +39,42 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
   </table>
 </div>
 
-### 🏆 Başarılar & Sertifikalar
--🎓 **Akademik Derece:** Bilgisayar Mühendisliği Bölüm Birinciliği.
-- 🥈 **IBM CyberStart 2.0:** 291 katılımcı arasından Türkiye 2.liği (Kodluyoruz).
-- 📜 **TÜBİTAK BİLGEM YTE:** Mock-up Figma & Spring Boot Bootcampleri.
-- 📜 **Turkcell Geleceği Yazanlar:** Python Programlama Sertifikası.
+
+
+
+<div align="center">
+  <h3>🏆 Başarılar & Sertifikalar</h3>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Akademik Başarı</h4>
+      <b>Derece:</b> Bölüm Birinciliği (2025) <br>
+      <b>Kurum:</b> Necmettin Erbakan Üniversitesi
+    </td>
+    <td width="50%" valign="top">
+      <h4>🥈 IBM CyberStart 2.0</h4>
+      <b>Başarı:</b> Türkiye 2.liği (291 katılımcı arasından) <br>
+      <b>Organizatör:</b> Kodluyoruz
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📜 Profesyonel Bootcampler</h4>
+      <b>TÜBİTAK BİLGEM YTE:</b> Mock-up Figma & Spring Boot <br>
+      <b>Yetkinlik:</b> Kurumsal yazılım süreçleri
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 Sertifikasyonlar</h4>
+      <b>Turkcell Geleceği Yazanlar:</b> Python Programlama <br>
+      <b>İTO SoftITo:</b> Yapay Zeka Eğitim Programı
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
