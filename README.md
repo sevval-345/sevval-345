@@ -15,9 +15,6 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 ---
 <div align="center">
   <h3>🧠 Hakkımda</h3>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <th width="50%">Teknik Odak (What I Build)</th>
@@ -25,22 +22,23 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
     </tr>
     <tr>
       <td>
-        🤖 <b>LLM & GenAI</b> entegrasyonları <br>
-        👁️ <b>Computer Vision</b> (YOLOv8) <br>
-        ⚙️ <b>Scalable Backend</b> (C#, Java) <br>
-        ☁️ <b>Cloud & DevOps</b> (Docker) <br>
-        ⚡ <b>Production-ready</b> sistemler
+        🤖 <b>AI/ML:</b> LLM, GenAI & Computer Vision (YOLOv8). <br>
+        ⚙️ <b>Backend:</b> FastAPI, C#, Java & ASP.NET Core. <br>
+        ☁️ <b>DevOps:</b> Docker, CI/CD & Cloud süreçleri. <br>
+        📊 <b>Veri:</b> SQL, MVC mimarisi & Modern veritabanları. <br>
+        ⚡ <b>Uygulama:</b> Production-ready sistemler.
       </td>
       <td>
-        🎓 <b>Bölüm Birincisi</b> Bilgisayar Müh. <br>
-        🏢 <b>Kurumsal:</b> Turkcell, Türkiye Finans, LCW <br>
-        🏆 <b>Datathon(BTK):</b> Kariyer tahminleme <br>
-        🔬 <b>Araştırma:</b> Otonom araç simülasyonu <br>
-        💡 <b>Full-stack</b> & Veri odaklı mimari
+        🎓 <b>Bölüm Birincisi:</b> Bilgisayar Mühendisliği. <br>
+        🏢 <b>Kurumsal:</b> Turkcell, Türkiye Finans, LCW. <br>
+        🏆 <b>Datathon:</b> Veri odaklı kariyer tahminleme. <br>
+        🔬 <b>Akademik:</b> İTO Yapay Zeka Akademi mezunu. <br>
+        💡 <b>Full-stack:</b> Uçtan uca geliştirme vizyonu.
       </td>
     </tr>
   </table>
 </div>
+
 ### 🏆 Başarılar & Sertifikalar
 -🎓 **Akademik Derece:** Bilgisayar Mühendisliği Bölüm Birinciliği.
 - 🥈 **IBM CyberStart 2.0:** 291 katılımcı arasından Türkiye 2.liği (Kodluyoruz).
