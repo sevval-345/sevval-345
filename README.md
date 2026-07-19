@@ -20,23 +20,23 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 <div align="center">
   <table>
     <tr>
-      <th width="50%">Neler Geliştiriyorum?</th>
-      <th width="50%">Etkim & Yetkinliklerim</th>
+      <th width="50%">Neler İnşa Ediyorum? (What I Build)</th>
+      <th width="50%">Etkim & Uzmanlığım (Impact & Expertise)</th>
     </tr>
     <tr>
       <td>
-        🔒 <b>Gizlilik odaklı</b> Yapay Zeka mimarileri <br>
-        🌐 <b>Veri odaklı</b> Makine Öğrenmesi sistemleri <br>
-        📱 <b>Ölçeklenebilir</b> Backend mimarileri <br>
-        🛡 <b>Güvenli</b> finansal yazılım modülleri <br>
-        ⚡ <b>Üretim seviyesinde</b> (Production-grade) çözümler
+        🤖 <b>LLM tabanlı</b> akıllı uygulamalar <br>
+        👁️ <b>Görüntü işleme</b> (Computer Vision) projeleri <br>
+        ⚙️ <b>Ölçeklenebilir</b> backend sistemleri <br>
+        ☁️ <b>Bulut tabanlı</b> modern mimariler <br>
+        ⚡ <b>Üretim seviyesinde</b> uçtan uca yazılımlar
       </td>
       <td>
-        📦 <b>Bölüm Birincisi</b> olarak mezuniyet <br>
-        ⭐ <b>Kurumsal projelerde</b> aktif yazılım geliştirme <br>
-        🚀 <b>Binlerce kullanıcıya</b> hizmet veren sistemler <br>
-        🔬 <b>Araştırma destekli</b> yapay zeka uygulamaları <br>
-        💡 <b>Veri odaklı</b> sistem mimarı
+        🎓 <b>Bölüm birincisi</b> olarak mühendislik mezuniyeti <br>
+        🏢 <b>Kurumsal deneyim:</b> Turkcell, Türkiye Finans, LC Waikiki <br>
+        🚀 <b>Başarılı projeler:</b> ATATHON 2026 ve otonom araçlar <br>
+        🔬 <b>Araştırma odaklı</b> yapay zeka uygulamaları <br>
+        💡 <b>Full-stack & DevOps</b> yetkinlikleriyle sürekli gelişim
       </td>
     </tr>
   </table>
