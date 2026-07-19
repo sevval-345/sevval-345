@@ -2,6 +2,9 @@
   <img src="https://github.com/sevval-345/sevval-345/blob/main/At%20Hype%20Media%2C%20we%20believe%20success%20is%20built%20on%20smart%20strategy%20and%20meaningful%20collaboration.%20(1).png" width="100%">
 </div>
 <br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Software+Engineer;AI+%26+Data+Specialist;Backend+Architect;Turning+ideas+into+real+projects" alt="Typing SVG" />
+</div>
 # Merhaba, Ben Şevval Mıkçı! 👋
 
 
