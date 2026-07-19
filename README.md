@@ -1,15 +1,7 @@
 <div align="center">
-  <img src="At Hype Media, we believe success is built on smart strategy and meaningful collaboration. (1).png" width="100%">
-  
-  <br><br>
-  
-  ### Software Engineer | AI & Machine Learning Developer
-  
-  <p align="center">
-    <code>Building scalable backend architectures & AI-powered data solutions</code>
-  </p>
+  <img src="[YUKLEDIGIN_RESIM_ADI.png](https://github.com/sevval-345/sevval-345/blob/main/At%20Hype%20Media%2C%20we%20believe%20success%20is%20built%20on%20smart%20strategy%20and%20meaningful%20collaboration.%20(1).png)" width="100%">
 </div>
-
+<br>
 # Merhaba, Ben Şevval Mıkçı! 👋
 
 
