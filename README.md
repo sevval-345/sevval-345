@@ -10,8 +10,7 @@
 
 ### Bilgisayar Mühendisi | Backend Developer & AI Enthusiast
 
-Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **3.2
-5 ortalama ile Bölüm Birincisi** olarak mezun oldum. Kurumsal stajlarımda (Turkcell, Türkiye Finans, LC Waikiki) edindiğim deneyimlerle, büyük ölçekli backend sistemleri ve veri tabanı yönetimi üzerine uzmanlaşıyorum.
+Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölüm Birincisi** olarak mezun oldum. Kurumsal stajlarımda (Turkcell, Türkiye Finans, LC Waikiki) edindiğim deneyimlerle, büyük ölçekli backend sistemleri ve veri tabanı yönetimi üzerine uzmanlaşıyorum.
 
 ---
 <div align="center">
