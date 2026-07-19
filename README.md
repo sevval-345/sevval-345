@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/sevval-345/sevval-345/blob/main/At%20Hype%20Media%2C%20we%20believe%20success%20is%20built%20on%20smart%20strategy%20and%20meaningful%20collaboration.%20(1).png)" width="100%">
+  <img src="https://github.com/sevval-345/sevval-345/blob/main/At%20Hype%20Media%2C%20we%20believe%20success%20is%20built%20on%20smart%20strategy%20and%20meaningful%20collaboration.%20(1).png" width="100%">
 </div>
 <br>
 # Merhaba, Ben Şevval Mıkçı! 👋
