@@ -1,4 +1,6 @@
 # Merhaba, Ben Şevval Mıkçı! 👋
+![](https://i.ibb.co/vj9b8K7/sevval-github-profile-banner.png) 
+*(Not: Bu örnek bir görseldir, kendi profilin için oluşturduğumuz gerçek görseli kullanmak için depondaki ilgili resim dosyasını bağlaman gerekir)*.
 
 ### Bilgisayar Mühendisi | Backend Developer & AI Enthusiast
 
