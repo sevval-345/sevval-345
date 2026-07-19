@@ -20,23 +20,23 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 <div align="center">
   <table>
     <tr>
-      <th width="50%">Neler İnşa Ediyorum? (What I Build)</th>
-      <th width="50%">Etkim & Uzmanlığım (Impact & Expertise)</th>
+      <th width="50%">Teknik Odak (What I Build)</th>
+      <th width="50%">Deneyim & Yetkinlik (Impact)</th>
     </tr>
     <tr>
       <td>
-        🤖 <b>LLM tabanlı</b> akıllı uygulamalar <br>
-        👁️ <b>Görüntü işleme</b> (Computer Vision) projeleri <br>
-        ⚙️ <b>Ölçeklenebilir</b> backend sistemleri <br>
-        ☁️ <b>Bulut tabanlı</b> modern mimariler <br>
-        ⚡ <b>Üretim seviyesinde</b> uçtan uca yazılımlar
+        🤖 <b>LLM & GenAI</b> entegrasyonları <br>
+        👁️ <b>Computer Vision</b> (YOLOv8) <br>
+        ⚙️ <b>Scalable Backend</b> (C#, Java) <br>
+        ☁️ <b>Cloud & DevOps</b> (Docker) <br>
+        ⚡ <b>Production-ready</b> sistemler
       </td>
       <td>
-        🎓 <b>Bölüm birincisi</b> olarak mühendislik mezuniyeti <br>
-        🏢 <b>Kurumsal deneyim:</b> Turkcell, Türkiye Finans, LC Waikiki <br>
-        🚀 <b>Başarılı projeler:</b> ATATHON 2026 ve otonom araçlar <br>
-        🔬 <b>Araştırma odaklı</b> yapay zeka uygulamaları <br>
-        💡 <b>Full-stack & DevOps</b> yetkinlikleriyle sürekli gelişim
+        🎓 <b>Bölüm Birincisi</b> Bilgisayar Müh. <br>
+        🏢 <b>Kurumsal:</b> Turkcell, Türkiye Finans, LCW <br>
+        🏆 <b>Datathon(BTK):</b> Kariyer tahminleme <br>
+        🔬 <b>Araştırma:</b> Otonom araç simülasyonu <br>
+        💡 <b>Full-stack</b> & Veri odaklı mimari
       </td>
     </tr>
   </table>
