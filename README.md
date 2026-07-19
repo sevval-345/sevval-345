@@ -3,16 +3,12 @@
   
   <br><br>
   
-  ### Software Engineer building AI-powered products
+  ### Software Engineer | AI & Machine Learning Enthusiast
   
   <p align="center">
-    <code>Turning ideas into real projects</code>
+    <code>Building scalable backend architectures & AI-powered data solutions</code>
   </p>
 </div>
-
-<br>
-
-<!-- Buradan aşağıya kendi metinlerini ekleyebilirsin -->
 
 # Merhaba, Ben Şevval Mıkçı! 👋
 
