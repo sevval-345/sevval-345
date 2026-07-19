@@ -12,6 +12,8 @@
 
 Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölüm Birincisi** olarak mezun oldum. Kurumsal stajlarımda (Turkcell, Türkiye Finans, LC Waikiki) edindiğim deneyimlerle, büyük ölçekli backend sistemleri ve veri tabanı yönetimi üzerine uzmanlaşıyorum.
 
+
+
 ---
 <div align="center">
   <h3>🧠 Hakkımda</h3>
@@ -38,6 +40,8 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
     </tr>
   </table>
 </div>
+
+
 
 
 
@@ -106,6 +110,11 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünden **Bölü
 </table>
 
 ---
+
+
+
+
+
 
 <div align="center">
   <h3>📫 Benimle İletişime Geç</h3>
