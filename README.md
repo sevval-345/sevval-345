@@ -3,7 +3,7 @@
   
   <br><br>
   
-  ### Software Engineer | AI & Machine Learning Enthusiast
+  ### Software Engineer | AI & Machine Learning Developer
   
   <p align="center">
     <code>Building scalable backend architectures & AI-powered data solutions</code>
